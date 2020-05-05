@@ -295,7 +295,7 @@ div#preloader {
 
 .navbar-header a.navbar-brand {
     display: inline-block;
-    height: 70px;
+    height: 100px;
     padding: 15px 0;
 }
 
@@ -307,7 +307,7 @@ div#preloader {
 .main-menu ul.navbar-nav li a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 500;
     padding: 24px 0px;
     text-transform: capitalize;
@@ -415,7 +415,7 @@ div#preloader {
 
 .header-area.stick {
     background-color: rgba(0, 0, 0, 1);
-    height: 70px;
+    height: auto;
     position: fixed;
     top: 0;
     width: 100%;
